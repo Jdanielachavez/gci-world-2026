@@ -1,0 +1,25 @@
+══════════════════════════════════════════════════════════
+COMPETITION — QUÉ SUBIR A OMNICAMPUS
+Deadline: 12 junio 11:00 UTC (≈ 6:00 AM hora Ecuador)
+URL: https://edu.omnicamp.us/courses/137/
+══════════════════════════════════════════════════════════
+
+ENTREGA 1 — Página "Competición" (la del CSV con score):
+   → Subir: submission.csv
+   → Después de Submit, verás las primeras filas y tu score público.
+
+ENTREGA 2 — Página "concurso (archivo zip)":
+   → Subir: concurso.zip
+   → Contiene: my_solution.ipynb + submission.csv
+
+──────────────────────────────────────────────────────────
+SOBRE EL NOTEBOOK (my_solution.ipynb) — Google Colab:
+1. Sube la carpeta "competition" (con input/) a tu MyDrive.
+2. Abre my_solution.ipynb en Colab.
+3. La celda %cd apunta a: /content/drive/MyDrive/competition
+   (si la pusiste en otra ruta, cambia esa línea).
+4. Runtime → Run all. Genera submission.csv (~10-15 min).
+
+MODELO: Ensemble LightGBM + XGBoost + CatBoost + RandomForest
+CV ROC-AUC: ~0.85 (baseline del curso: ~0.78)
+──────────────────────────────────────────────────────────

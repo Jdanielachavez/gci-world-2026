@@ -1,0 +1,9 @@
+IBISWorld / Statista (2024). U.S. Wireless Telecommunications Carriers — Market Size. https://www.statista.com/topics/2103/telecommunications-industry/
+McKinsey & Company. Reducing churn in telecom through advanced analytics. https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights
+Harvard Business Review (2014), Amy Gallo. The Value of Keeping the Right Customers. https://hbr.org/2014/10/the-value-of-keeping-the-right-customers
+Reichheld, F. & Sasser, W. E. (1990). Zero Defections: Quality Comes to Services. Harvard Business Review; Bain & Company customer retention research. https://hbr.org/1990/09/zero-defections-quality-comes-to-services
+Company A (anonymized telecom) Proof-of-Concept dataset — GCI World 2026 April course materials, Matsuo-Iwasawa Laboratory, The University of Tokyo.
+Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830. https://scikit-learn.org/
+Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Statistics, 29(5), 1189-1232. https://www.jstor.org/stable/2699986
+GCI World 2026 April lecture notebooks and slides, Matsuo-Iwasawa Laboratory, The University of Tokyo.
+Generative AI assistance (Anthropic Claude) for slide structuring and visualization — chat history: [PASTE YOUR CHAT URL HERE]

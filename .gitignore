@@ -1,0 +1,22 @@
+# Datos grandes (superan límite de GitHub)
+FINAL ASSIGMENT FINAL/Client.csv
+FINAL ASSIGMENT FINAL/Record.csv
+COMPETITION FINAL/train.csv
+COMPETITION FINAL/test.csv
+
+# Carpetas generadas automáticamente
+COMPETITION FINAL/catboost_info/
+COMPETITION FINAL/concurso/
+
+# Archivos ZIP (se pueden regenerar)
+COMPETITION FINAL/concurso.zip
+
+# Archivos duplicados / temporales
+FINAL ASSIGMENT FINAL/JosselineDanielaChavezCarpio.ipynb
+FINAL ASSIGMENT FINAL/JosselineDanielaChavezCarpio.pdf
+OMNICAMPUS U DE TOKIO/drive-download-20260603T033706Z-3-001.zip
+OMNICAMPUS U DE TOKIO/drive-download-20260603T033908Z-3-001.zip
+
+# macOS
+.DS_Store
+**/.DS_Store

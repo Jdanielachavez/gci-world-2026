@@ -1,0 +1,37 @@
+══════════════════════════════════════════════════════════
+FINAL ASSIGNMENT — QUÉ SUBIR A OMNICAMPUS
+Deadline: 19 junio 11:00 UTC (≈ 6:00 AM hora Ecuador)
+URL: https://edu.omnicamp.us/courses/137/reports/106/
+══════════════════════════════════════════════════════════
+
+FORMULARIO "Informe: Trabajo final" — 4 campos:
+
+① TÍTULO DEL INFORME (copiar y pegar):
+   Turning Customer Data into Retained Revenue: A Data-Driven
+   Churn Reduction Proposal for Company A
+
+② URL DE REFERENCIA (pegar el contenido de references.txt)
+
+③ NOTEBOOK:
+   → Subir: JosselineDanielaChavezCarpio.ipynb
+
+④ ARCHIVO DE INFORME (slides):
+   → Subir: JosselineDanielaChavezCarpio.pdf
+   (14 slides, 682 KB — límites: 15 slides / 10 MB ✓)
+
+⚠ IMPORTANTE: el nombre de archivo debe ser tu nombre de
+cuenta de Omnicampus. Verifica en tu perfil; si tu cuenta
+se llama distinto, renombra los 2 archivos antes de subir.
+
+──────────────────────────────────────────────────────────
+SOBRE EL NOTEBOOK — Google Colab:
+1. Sube Client.csv y Record.csv a MyDrive/GCI_GLOBAL/
+2. Abre el .ipynb en Colab → Runtime → Run all.
+3. PATH usado: /content/drive/MyDrive/GCI_GLOBAL/
+   (si usas otra carpeta, cambia la variable PATH).
+
+RESULTADOS DEL MODELO:
+- Gradient Boosting: ROC-AUC 0.69 (mejor de 3 modelos)
+- Top 20% targeting: 73% precisión, lift 1.47x
+- Impacto: $6.06M beneficio neto, +$1.97M vs random
+──────────────────────────────────────────────────────────
