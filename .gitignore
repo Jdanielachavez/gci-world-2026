@@ -1,33 +1,32 @@
-# Datos grandes (superan límite 25MB de GitHub)
-FINAL ASSIGMENT FINAL/Client.csv
-FINAL ASSIGMENT FINAL/Record.csv
-COMPETITION FINAL/train.csv
-COMPETITION FINAL/test.csv
+# ── Repositorio: solo Competition + Final Assignment ──
+# Todo lo demás se mantiene en disco local pero fuera de GitHub.
+
+# CV / documentos personales (NO van a un repo público)
+curricumum ATS/
+
+# Carpetas que no forman parte del portafolio
+.netlify/
+.Rhistory
+OMNICAMPUS U DE TOKIO/MATSUO U DE TOKYO/
+OMNICAMPUS U DE TOKIO/SLIDES_MERGE/
+
+# Datos grandes (superan límite 25MB de GitHub) — course-provided
 OMNICAMPUS U DE TOKIO/FINAL ASSIGMENT FINAL/Client.csv
 OMNICAMPUS U DE TOKIO/FINAL ASSIGMENT FINAL/Record.csv
 OMNICAMPUS U DE TOKIO/COMPETITION FINAL/train.csv
 OMNICAMPUS U DE TOKIO/COMPETITION FINAL/test.csv
-OMNICAMPUS U DE TOKIO/MATSUO U DE TOKYO/FINAL ASSIGMENT/Client.csv
-OMNICAMPUS U DE TOKIO/MATSUO U DE TOKYO/FINAL ASSIGMENT/Record.csv
-OMNICAMPUS U DE TOKIO/MATSUO U DE TOKYO/tareas/submission.csv
 
-# Carpetas generadas automáticamente
-COMPETITION FINAL/catboost_info/
-COMPETITION FINAL/concurso/
+# Carpetas / artefactos generados automáticamente
 OMNICAMPUS U DE TOKIO/COMPETITION FINAL/catboost_info/
 OMNICAMPUS U DE TOKIO/COMPETITION FINAL/concurso/
-
-# Archivos ZIP
-COMPETITION FINAL/concurso.zip
 OMNICAMPUS U DE TOKIO/COMPETITION FINAL/concurso.zip
-OMNICAMPUS U DE TOKIO/drive-download-20260603T033706Z-3-001.zip
-OMNICAMPUS U DE TOKIO/drive-download-20260603T033908Z-3-001.zip
-
-# Archivos duplicados / temporales
-FINAL ASSIGMENT FINAL/JosselineDanielaChavezCarpio.ipynb
-FINAL ASSIGMENT FINAL/JosselineDanielaChavezCarpio.pdf
+OMNICAMPUS U DE TOKIO/drive-download-*.zip
 
 # macOS
 .DS_Store
 **/.DS_Store
 .claude/
+
+# Carpetas ajenas al curso
+BECAS */
+BECAS/

@@ -6,4 +6,3 @@ Company A (anonymized telecom) Proof-of-Concept dataset — GCI World 2026 April
 Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830. https://scikit-learn.org/
 Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Statistics, 29(5), 1189-1232. https://www.jstor.org/stable/2699986
 GCI World 2026 April lecture notebooks and slides, Matsuo-Iwasawa Laboratory, The University of Tokyo.
-Generative AI assistance: Anthropic Claude (Claude Code, local desktop session — no public chat URL available) was used to assist with slide structuring, data visualization, and code review. All analysis, modeling decisions, and business conclusions were reviewed and validated by the author.
